@@ -1,0 +1,6 @@
+[12-Apr-2025 13:37:10 UTC] PHP Warning:  require_once(C:\xampp\htdocs\Online Legal Consultation and Document Generator\includes/../vendor/autoload.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Online Legal Consultation and Document Generator\includes\functions.php on line 3
+[12-Apr-2025 13:37:10 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\Online Legal Consultation and Document Generator\includes/../vendor/autoload.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Online Legal Consultation and Document Generator\includes\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\Online Legal Consultation and Document Generator\admin\dashboard.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\Online Legal Consultation and Document Generator\includes\functions.php on line 3
